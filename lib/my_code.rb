@@ -9,5 +9,5 @@ def map(array)
   new
 end
 
-def reduce()
+def reduce(array,s_point=nil)
 end
